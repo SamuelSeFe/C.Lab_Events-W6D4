@@ -1,0 +1,12 @@
+body {
+  font-family: Palatino;
+}
+
+#reading-list{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.book{
+  border: 1px solid black;
+}
